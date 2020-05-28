@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="test-oauth2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jscrambler-vueauthclient-backend-master.zip!/" />
+      <root url="jar://$PROJECT_DIR$/jscrambler-vueauthclient-master.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
